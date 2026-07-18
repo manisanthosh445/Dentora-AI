@@ -5,6 +5,16 @@ Dentora AI is a state-of-the-art dental clinic operating system designed to opti
 
 ---
 
+## ⚠️ Core Business Challenges Addressed (Problem Statement)
+*   **Appointment Management**: Businesses lose revenue due to manual scheduling, no-shows, and inefficient appointment handling.
+*   **Intelligent Workforce Scheduling**: Organizations struggle to assign employees efficiently based on skills, availability, and workload.
+*   **Resource Reservation**: Businesses require centralized booking systems for rooms, vehicles, courts, equipment, and facilities.
+*   **Dynamic Pricing**: Businesses need demand-based pricing strategies for appointments, bookings, and reservations.
+*   **Automated Notifications**: Customers miss appointments because businesses lack automated reminders and confirmations.
+*   **Capacity Optimization**: Organizations cannot efficiently manage booking availability, utilization, and peak demand.
+
+---
+
 ## 🚀 Key Modules & Capabilities
 
 ### 🩺 Clinic Operations
